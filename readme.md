@@ -1,6 +1,6 @@
 # TaskMaster - Full Stack To-Do List Application
 
-TaskMaster is a fully functional To-Do List Web Application with user authentication, task management, and profile picture upload functionality. The application features a user-friendly interface built with Next.js and Tailwind CSS on the frontend, and Django REST Framework with SQLite3 on the backend.
+TaskMaster is a fully functional To-Do List Web Application with user authentication, task management, and profile picture upload functionality. The application features a user-friendly interface built with Next.js and Tailwind CSS on the frontend, and Django REST Framework with MySQL on the backend.
 
 
 <img width="1280" alt="Screenshot 2025-03-17 at 03 07 06" src="https://github.com/user-attachments/assets/e4c00faf-ac7b-4eec-95d9-0cbd9c7d634a" />
