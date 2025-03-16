@@ -65,6 +65,22 @@ DATABASES = {
     }
 }
 
+
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.mysql',
+#         'NAME': 'taskmaster_db',
+#         'USER': 'taskmaster_user',
+#         'PASSWORD': 'your_secure_password',
+#         'HOST': 'localhost',
+#         'PORT': '3306',
+#         'OPTIONS': {
+#             'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
+#             'charset': 'utf8mb4',
+#         }
+#     }
+# }
+
 # Password validation
 AUTH_PASSWORD_VALIDATORS = [
     {
